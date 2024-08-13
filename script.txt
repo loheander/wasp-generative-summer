@@ -1,0 +1,28 @@
+Team: "Team Bravo"
+
+Sequence 1 scene: "Locked Up Laughs"
+01L: (calling out to Gus) Hey, Gus! You know, I was just thinking—did I ever tell you about the time I escaped from Alcatraz?
+02G: (sighing, not looking up) Yeah, Larry. Yesterday, twice. And last week. And the week before that.
+03L: (grinning) Ah, but did I ever tell you about the time I broke out using nothing but a toothbrush and some dental floss?
+04G: (sarcastic) Oh, this should be good. Enlighten me.
+05T: (confused) Uh, hi! Is this 13 Creepy Dungeon Way?
+06G: (surprised) What the—who are you, and why are you here?
+07T: (cheerful) I’m Tina, from Tina’s Pizza Palace! I got an order for, uh… (checks the receipt) “L. Escapist?”
+08L: (jumping up) That’s me! (whispering to Gus) I told you I had connections. Pizza deliveries right to my cell!
+09G: (glaring at Larry) You ordered a pizza? You’re a prisoner! You can’t just—
+10T: (interrupting) Extra large with pepperoni and jalapeños. Paid in full. (holds out the pizza) Here you go!
+11L: (smiling) See, Gus? Told you I’ve got friends on the outside.
+12G: (grumbling) Yeah, right. What did you trade this time? Your invisible Rolex? Or maybe your “treasure map” to the Fountain of Youth?
+13L: (feigning innocence) Why, Gus, you wound me. Can’t a guy just enjoy some pizza without all the accusations?
+14T: (looking around) So… this is a weird place for a pizza delivery, huh?
+15L: (grinning) Oh, it’s just temporary. I’m getting out tomorrow. My lawyer, uh, Abraham Lincoln, is sorting it out.
+16T: (surprised) Abraham Lincoln? Isn’t he, like, dead?
+17G: (rolling his eyes) Don’t even try, Tina. This guy could convince you the sky is green if you listen long enough.
+18T: (hesitant) So… do I leave the pizza here, or…?
+19G: (grabbing the pizza) You leave it with me. No way Larry’s getting his greasy hands on this.
+20L: (calling after them as Gus starts walking away with the pizza) Hey, Gus, I’ll trade you! How about that Swiss bank account I mentioned last week?
+21G: (without turning around) How about you trade me some peace and quiet?
+22T: (to Larry) So, are you really getting out tomorrow?
+23L: (winking) Tomorrow? Nah, I’m busting out tonight. With nothing but this pizza crust and a paperclip. You should stick around—might be worth a slice!
+24G: (grudgingly) Here. Just don’t choke on it.
+25L: (catching the slice) Thanks, Gus! You’re all heart, you know that?
